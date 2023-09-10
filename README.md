@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Pranav Harishchandra Maurya and I'm a Frontend Developer from India.</h2>
+<h2 align="center">Hi 👋! My name is Pranav Harishchandra Maurya and I'm a Computer Engineer from India.</h2>
 
 ###
 
